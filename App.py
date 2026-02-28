@@ -3,12 +3,11 @@ import pandas as pd
 import requests
 
 # 1. Dashboard Settings
-st.set_page_config(page_title="Gold Intelligence Pro", layout="wide")
-
+st.set_page_config(page_title="Gold Intelligence Pro", layout="wide"
 # 2. Telegram Bot Configuration
-# လူကြီးမင်း BotFather ဆီကရတဲ့ Token နဲ့ ID ကို ဒီနေရာမှာ အစားထိုးပါ
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-CHAT_ID = "YOUR_CHAT_ID_HERE"
+
+TOKEN = "8354955204:AAF-blpBHoDXbUzDBQdW3caZV4mOE0yAISc
+CHAT_ID = "6129668150"
 
 def send_telegram_alert(message):
     if TOKEN != "YOUR_BOT_TOKEN_HERE":
@@ -57,6 +56,5 @@ with col2:
 st.divider()
 st.caption(" 2026 Developed for Professional Gold Trading Ecosystem")
 8354955204:AAF-blpBHoDXbUzDBQdW3caZV4mOE0yAISc
-# မူရင်းနေရာ
-TOKEN ="8354955204:AAF-blpBHoDXbUzDBQdW3caZV4mOE0yAISc
-CHAT_ID = "6129668150"
+
+
