@@ -57,3 +57,6 @@ with col2:
 st.divider()
 st.caption(" 2026 Developed for Professional Gold Trading Ecosystem")
 8354955204:AAF-blpBHoDXbUzDBQdW3caZV4mOE0yAISc
+# မူရင်းနေရာ
+TOKEN ="8354955204:AAF-blpBHoDXbUzDBQdW3caZV4mOE0yAISc
+CHAT_ID = "6129668150"
